@@ -1,0 +1,40 @@
+[SUCCESS] LapRekapPinjaman.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapRekapPinjaman.php
+[SUCCESS] LapRekapPinjamanExport.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapRekapPinjamanExport.php
+[SUCCESS] LapSaldo.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapSaldo.php
+[SUCCESS] LapSaldoModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapSaldoModel.php
+[SUCCESS] LapShu.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapShu.php
+[SUCCESS] LapShuModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapShuModel.php
+[SUCCESS] LapLabaModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapLabaModel.php
+[SUCCESS] LapShuAnggota.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapShuAnggota.php
+[SUCCESS] LapShuAnggotaModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapShuAnggotaModel.php
+[SUCCESS] LapSimpanan.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapSimpanan.php
+[SUCCESS] LapSimpananModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapSimpananModel.php
+[SUCCESS] LapTempo.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapTempo.php
+[SUCCESS] LapTempoModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapTempoModel.php
+[SUCCESS] LapTransKas.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/LapTransKas.php
+[SUCCESS] LapTransKasModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LapTransKasModel.php
+[SUCCESS] Login.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/Login.php
+[SUCCESS] LoginModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/LoginModel.php
+[SUCCESS] Member.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/Member.php
+[SUCCESS] Anggota.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/Anggota.php
+[SUCCESS] AnggotaModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/AnggotaModel.php
+[SUCCESS] Angsuran.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/Angsuran.php
+[SUCCESS] AngsuranModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/AngsuranModel.php
+[SUCCESS] AngsuranDetail.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/AngsuranDetail.php
+[SUCCESS] AngsuranLunas.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/AngsuranLunas.php
+[SUCCESS] PemasukanKas.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/PemasukanKas.php
+[SUCCESS] PengeluaranKas.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/PengeluaranKas.php
+[SUCCESS] Profil.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/Profil.php
+[SUCCESS] SettingModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/SettingModel.php
+[SUCCESS] RegistrasiRondamabesal.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Controllers/RegistrasiRondamabesal.php
+[SUCCESS] RegistrasiRondamabesalModel.php berhasil dimigrasi ke CI4 pada lokasi usipa-ci4/app/Models/RegistrasiRondamabesalModel.php
+[SUCCESS] Views/themes/login_form_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/login_form_member_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_pengajuan_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_pengajuan_baru_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_pinjaman_detil_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_simpanan_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_bayar_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_ubah_pass_v.php berhasil dimigrasi ke CI4
+[SUCCESS] Views/themes/member_ubah_pic_v.php berhasil dimigrasi ke CI4
